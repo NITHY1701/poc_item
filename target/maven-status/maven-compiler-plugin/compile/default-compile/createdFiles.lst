@@ -1,0 +1,8 @@
+com/zmast/poc/RestConfig.class
+com/zmast/poc/controller/ItemController.class
+com/zmast/poc/service/ItemService.class
+com/zmast/poc/service/ItemServiceImpl.class
+com/zmast/poc/model/Item.class
+com/zmast/poc/RestApiApplication.class
+com/zmast/poc/SwaggerConfig.class
+com/zmast/poc/repository/ItemRepository.class
